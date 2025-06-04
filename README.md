@@ -19,10 +19,10 @@
 ### CodeSnaps and Output
 | File | Description |
 |------|-------------|
-| [`postman1.png`](screenshots/p1.png) | Successful API response in Postman |
-| [`postman1.png`](screenshots/p2.png) | Postman tests |
-| [`postman3.png`](screenshots/p3.png) | Postman tests |
-| [`postman4.png`](screenshots/p4.png) | Postman tests |
+| [`postman1.png`](screenshots/P1.png) | Successful API response in Postman |
+| [`postman1.png`](screenshots/P2.png) | Postman tests |
+| [`postman3.png`](screenshots/P3.png) | Postman tests |
+| [`postman4.png`](screenshots/P4.png) | Postman tests |
 | [`react-desktop.png`](screenshots/r2.png) | Desktop view of React frontend |
 | [`react-desktop.png`](screenshots/r1.png) | Desktop view of React frontend |
 
