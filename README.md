@@ -16,15 +16,16 @@
 
 ## Files
 
-### Screenshots
+### CodeSnaps and Output
 | File | Description |
 |------|-------------|
-| [`postman-success.png`](screenshots/postman-success.png) | Successful API response in Postman |
-| [`postman-error.png`](screenshots/postman-error.png) | Error handling in Postman |
-| [`terminal-startup.png`](screenshots/terminal-startup.png) | Server startup logs |
-| [`react-desktop.png`](screenshots/react-desktop.png) | Desktop view of React frontend |
-| [`react-mobile.png`](screenshots/react-mobile.png) | Mobile-responsive view |
-| [`correlation-heatmap.png`](screenshots/correlation-heatmap.png) | Stock correlation visualization |
+| [`postman1.png`](screenshots/p1.png) | Successful API response in Postman |
+| [`postman1.png`](screenshots/p2.png) | Postman tests |
+| [`postman3.png`](screenshots/p3.png) | Postman tests |
+| [`postman4.png`](screenshots/p4.png) | Postman tests |
+| [`react-desktop.png`](screenshots/r2.png) | Desktop view of React frontend |
+| [`react-desktop.png`](screenshots/r1.png) | Desktop view of React frontend |
+
 
 ### Key Code Files
 | File | Purpose |
