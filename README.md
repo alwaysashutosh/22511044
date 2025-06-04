@@ -11,7 +11,48 @@
 - [Setup Instructions](#setup-instructions)
 - [Testing](#testing)
 - [Files](#files)
-## Files
+
+## Tech Stack
+
+- **Backend:** Node.js, Express
+- **HTTP Client:** axios
+- **API Testing:** Postman
+-  **Frontend**  ReactJS 
+
+---
+
+## Project Structure
+
+```
+/project-root/
+├── /controllers/
+│   └── stockController.js
+├── /routes/
+│   └── stockRoutes.js
+├── app.js
+├── package.json
+└── README.md
+```
+
+---
+
+## How to Run the Project
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Server
+
+```bash
+npm start
+```
+
+Server will run on `http://localhost:5000/`
+
+---
 
 ### CodeSnaps and Output
 | File | Description |
@@ -32,3 +73,36 @@
 | [`routes/`](backend/routes/) | All API route definitions |
 | [`controllers/`](backend/controllers/) | Business logic handlers |
 | [`utils/math.utils.js`](backend/utils/math.utils.js) | Correlation calculations |
+
+##  Notes
+
+- Uses stock exchange APIs (provided in assessment) for all data.
+- No database or user authentication implemented.
+- Data structures, average, and correlation calculations handled internally.
+
+---
+
+##  Formulas Used
+
+### Average
+
+```
+average = (sum of all prices) / (number of prices)
+```
+
+### Pearson’s Correlation Coefficient
+
+```
+ρ = cov(X, Y) / (σx * σy)
+```
+
+Where:
+- cov(X, Y) = covariance between X and Y
+- σx, σy = standard deviations
+
+---
+
+## Author
+
+**Ashutosh Ranjan**
+22511044
