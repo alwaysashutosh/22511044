@@ -11,9 +11,6 @@
 - [Setup Instructions](#setup-instructions)
 - [Testing](#testing)
 - [Files](#files)
-- [Assessment Compliance](#assessment-compliance)
-- [License](#license)
-
 ## Files
 
 ### CodeSnaps and Output
@@ -35,6 +32,3 @@
 | [`routes/`](backend/routes/) | All API route definitions |
 | [`controllers/`](backend/controllers/) | Business logic handlers |
 | [`utils/math.utils.js`](backend/utils/math.utils.js) | Correlation calculations |
-
-## Project Overview
-[... rest of your existing README content ...]
